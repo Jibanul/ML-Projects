@@ -1,6 +1,6 @@
 ![Siemens Wind Turbine](figs/siemens_wind_turbine.jpeg)
 
-# Wind Competition Data Analysis Project
+# SIEMENS Wind Competition Data Analysis Project
 
 🏆 **First Prize Winner - SIEMENS 2017 WIND ANALYTICS CONTEST, UCF**
 
