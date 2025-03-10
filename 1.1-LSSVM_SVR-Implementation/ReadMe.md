@@ -3,10 +3,10 @@ Implementation of Least Squares Support Vector Machines (LSSVM) and Support Vect
 
 
 ## Overview
-This project implements various machine learning algorithms focusing on Least Squares Support Vector Machines (LS-SVM) and Support Vector Regression (SVR). The implementation is available in both R and Python.
+This project implements various machine learning algorithms focusing on Least Squares Support Vector Machines (LS-SVM) and Support Vector Regression (SVR). The implementation is available in R/Python.
 
 ## Goal
-The goal of this project is to implement and analyze **Least Squares Support Vector Machines (LS-SVM)** and **Support Vector Regression (SVR)** using different numerical approaches. These methods are widely used for **regression tasks and large-scale optimization problems**. By implementing these models in **both R and Python**, we aim to:
+The goal of this project is to implement and analyze **Least Squares Support Vector Machines (LS-SVM)** and **Support Vector Regression (SVR)** using different numerical approaches. These methods are widely used for **regression tasks and large-scale optimization problems**. By implementing these models in **R/Python**, we aim to:
 - Understand the mathematical foundation behind LS-SVM and SVR.
 - Compare different numerical methods (e.g., **Conjugate Gradient, QR Decomposition, Incremental Learning**).
 
