@@ -28,7 +28,7 @@ This project applies **statistical and machine learning techniques** to enhance 
 
 ## Code Files
 
-1. **Finalcodefile.R**
+1. **main.R**
    - Main analysis file
    - Runtime: ~30 minutes (Intel i7, 16GB RAM)
    - Requirements:
@@ -40,7 +40,7 @@ This project applies **statistical and machine learning techniques** to enhance 
    - Contains clustering and social network analysis
    - Requirements:
      - Set `path1` variable to data directory
-     - Load 7 transition matrices (can be generated from Finalcodefile.R)
+     - Load 7 transition matrices (can be generated from main.R)
      - Load 3 original datasets
      - Load "Kcode.csv" (manual error code grouping)
    - Recommended to run step-by-step (Parts 1-13) for clarity.
@@ -96,7 +96,7 @@ nnet
 ## Running Order
 
 While files can be run independently using provided datasets, the recommended order is:
-1. Finalcodefile.R (generates transition matrices)
+1. main.R (generates transition matrices)
 2. Cluster.R
 3. SPatterns.R
 4. ASRM.R
