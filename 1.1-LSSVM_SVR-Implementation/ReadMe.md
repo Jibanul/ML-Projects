@@ -1,5 +1,6 @@
-# Statistical Computing - Project 1
+# Statistical Computing
 Implementation of Least Squares Support Vector Machines (LSSVM) and Support Vector Regression (SVR) Algorithms
+
 
 ## Overview
 This project implements various machine learning algorithms focusing on Least Squares Support Vector Machines (LS-SVM) and Support Vector Regression (SVR). The implementation is available in both R and Python.
