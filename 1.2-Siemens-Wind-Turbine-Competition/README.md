@@ -15,9 +15,36 @@ This project focuses on identifying patterns and trends in wind turbine failures
 - **Cluster and classify** turbine visit occurrences.
 - **Analyze warning and shutdown frequencies** for predictive insights.
 - **Identify correlations** between turbine events and technician visits.
-
-
+  
 This project applies **statistical and machine learning techniques** to enhance **predictive maintenance strategies**, improving wind turbine reliability and efficiency.  
+
+## Overview
+
+📌 **Read the report for detailed analysis.**
+
+This project analyzes wind turbine error patterns using various statistical and data mining techniques to detect associations and predict failures. The dataset comprises error codes recorded across multiple wind parks before, during, and after technician visits.
+
+The analysis includes:
+
+- **Exploratory Data Analysis (EDA)** to examine statistical distributions and associations between parks, turbines, and error codes.
+- **Markov Chain Model** for estimating conditional probabilities of error transitions, helping predict future failures.
+
+  <p align="center">
+    <img src="figs/markov_chain.png" alt="Markov Chain" width="1200">
+  </p>
+
+- **Path Analysis** to understand how different error types influence each other over time. This model illustrates sequences such as how event-related errors can lead to stop warnings before, during, and after visits.
+
+  <p align="center">
+    <img src="figs/path_model.png" alt="Path Model" width="400">
+  </p>
+
+- **Clustering Approaches** to categorize parks, stations, and visits based on error patterns.
+- **Social Network Analysis** to find the most central error codes and community interactions.
+- **Pattern Mining & Sequential Rules** to uncover common error sequences and predict maintenance needs.
+
+These insights support predictive maintenance by helping experts understand failure patterns and optimize turbine servicing.
+
 
 ## Code Files
 
@@ -113,5 +140,5 @@ However, the code is provided for **educational and demonstration purposes**.
 (Listed alphabetically)
 - Mahsa Almaeenejad
 - Kanak Choudhury
-- Jibanul Haque
+- **Jibanul Haque**
 - Taha Mokfi
