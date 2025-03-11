@@ -15,6 +15,7 @@ Each project is structured as a separate folder, following a numerical system fo
   - Focuses on Deep Learning, Computer Vision, Natural Language Processing, and advanced AI models.
   - Examples: Object Detection, Image Segmentation, Text Summarization, Video Analysis.
 
+<!--
 ### 📜 **Project List**
 #### 🔢 **Data Science/ML**
 | No.  | Project Name | Description |
@@ -29,6 +30,8 @@ Each project is structured as a separate folder, following a numerical system fo
 | 2.1  | [Project Name](link-to-project) | Short description |
 | 2.2  | [Project Name](link-to-project) | Short description |
 | ...  | ... | ... |
+-->
+
 
 ## 🛠 **Technologies Used**
 - **Traditional ML:** Scikit-learn, Pandas, NumPy, XGBoost, etc.
