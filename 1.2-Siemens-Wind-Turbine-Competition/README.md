@@ -2,11 +2,11 @@
 
 # SIEMENS Wind Competition Data Analysis Project
 
-🏆 **First Prize Winner - SIEMENS 2017 WIND ANALYTICS CONTEST, UCF**
+🏆 **First Prize Winner - SIEMENS WIND ANALYTICS CONTEST, UCF**
 
 ## 🏆 Competition Objective  
 
-The **Siemens 2017 Wind Analytics Contest** aimed to analyze wind turbine operational data to uncover patterns leading to maintenance visits. Wind turbines generate logs of events, warnings, and faults, some causing shutdowns that require technician intervention.  
+The **Siemens Wind Analytics Contest** aimed to analyze wind turbine operational data to uncover patterns leading to maintenance visits. Wind turbines generate logs of events, warnings, and faults, some causing shutdowns that require technician intervention.  
 
 
 ### 🔹 Key Goals:
