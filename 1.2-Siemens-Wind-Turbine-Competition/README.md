@@ -137,8 +137,7 @@ However, the code is provided for **educational and demonstration purposes**.
 
 
 ## Team Members
-(Listed alphabetically)
+- **Jibanul Haque**
 - Mahsa Almaeenejad
 - Kanak Choudhury
-- **Jibanul Haque**
 - Taha Mokfi
