@@ -4,13 +4,6 @@
 
 🏆 **First Prize Winner - SIEMENS 2017 WIND ANALYTICS CONTEST, UCF**
 
-## Team Members
-(Listed alphabetically)
-- Mahsa Almaeenejad
-- Kanak Choudhury
-- Jibanul Haque
-- Taha Mokfi
-
 ## 🏆 Competition Objective  
 
 The **Siemens 2017 Wind Analytics Contest** aimed to analyze wind turbine operational data to uncover patterns leading to maintenance visits. Wind turbines generate logs of events, warnings, and faults, some causing shutdowns that require technician intervention.  
@@ -114,3 +107,11 @@ Make sure these directories exist or modify the paths in the code accordingly.
 **Important:** The wind turbine data used in this analysis is **proprietary** and belongs to **Siemens Energy**.  
 Due to **confidentiality agreements**, the original datasets **cannot be shared**.  
 However, the code is provided for **educational and demonstration purposes**.
+
+
+## Team Members
+(Listed alphabetically)
+- Mahsa Almaeenejad
+- Kanak Choudhury
+- Jibanul Haque
+- Taha Mokfi
