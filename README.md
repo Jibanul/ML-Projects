@@ -15,7 +15,7 @@ Each project is structured as a separate folder, following a numerical system fo
 
 - **2.x - AI for Unstructured Data (Images, Videos, Text)**
   - Focuses on Deep Learning, Computer Vision, Natural Language Processing, and advanced AI models.
-  - Examples: Object Detection, Image Segmentation, Text Summarization, Video Analysis.
+  - Examples: Object Detection/Classification/Counting, Text Summarization, Video Analysis, and 3D Point Cloud Processing.
 
 <!--
 ### 📜 **Project List**
