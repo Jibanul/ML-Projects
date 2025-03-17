@@ -1,12 +1,12 @@
 # Diabetic Retinopathy Detection
 
-<p align="center">
-    <img src="./figs/retina_example.jpg" alt="Retina Image Example" width="80%">
-</p>
-
 ## Overview
 
 This project implements a deep learning system for the automated classification of Diabetic Retinopathy (DR) severity from retinal fundus images. The model categorizes DR into five stages: No DR, Mild, Moderate, Severe, and Proliferative DR.
+
+<p align="center">
+    <img src="./figs/retina_example.png" alt="Retina Image Example" width="80%">
+</p>
 
 ## Contents
 
