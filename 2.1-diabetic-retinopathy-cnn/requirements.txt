@@ -1,0 +1,10 @@
+torch>=1.7.0
+torchvision>=0.8.0
+efficientnet-pytorch>=0.7.1
+pandas>=1.2.0
+scikit-learn>=0.24.0
+tensorboard>=2.4.0
+torchsampler>=0.1.0
+Pillow>=8.0.0
+matplotlib>=3.3.0
+numpy>=1.19.0
