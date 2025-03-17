@@ -2,7 +2,9 @@
 
 Welcome to my **Machine Learning Projects** repository! This repo contains various ML projects that I have worked on during my graduate studies and beyond. The projects cover a wide range of topics, from traditional data science models to AI applications involving unstructured data such as images, videos, and text.
 
+<!--
 🚧 **Work in Progress:** I am in the process of adding and organizing projects. More updates will be coming soon!
+-->
 
 ## 📂 **Project Organization**
 Each project is structured as a separate folder, following a numerical system for easy navigation:
